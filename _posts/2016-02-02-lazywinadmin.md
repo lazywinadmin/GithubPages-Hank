@@ -8,5 +8,6 @@ Well. Finally found some time to play a bit with GitHub pages. Powered by [Jekyl
 
 And here is some PowerShell
 
-```powershell
+{% highlight powershell %}
 Get-Process -name Chrome
+{% endhighlight %}
