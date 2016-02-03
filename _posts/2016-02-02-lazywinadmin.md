@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "My first post on Github Page"
 date: 2016/02/02
 ---
 
