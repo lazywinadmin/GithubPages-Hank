@@ -4,7 +4,7 @@ title: "My first post on Github Page"
 date: 2016/02/02
 ---
 
-Well. Finally got around to putting this old website together. Neat thing about it - powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
+Well. Finally found some time to play a bit with GitHub pages. Powered by [Jekyll](http://jekyllrb.com) and I can use Markdown to author my posts. It actually is a lot easier than I thought it was going to be.
 
 And here is some PowerShell
 
