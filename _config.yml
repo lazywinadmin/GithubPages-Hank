@@ -1,6 +1,17 @@
-name: Hank Quinlan, Horrible Cop
+# Site Configuration
+name: LazyWinAdmin
+locale: en_US
+url:  http://lazywinadmin.github.com
+
+# Jeykyll Configuration
 markdown: kramdown
+highlighter: pygments
 permalink: /blog/:year/:month/:day/:title
 gems:
   - jekyll-sitemap
-highlighter: pygments
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
