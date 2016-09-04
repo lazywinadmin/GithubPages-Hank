@@ -11,3 +11,9 @@ And here is some PowerShell
 {% highlight powershell %}
 Get-Process -name Chrome
 {% endhighlight %}
+
+Another example of PowerShell
+``` powershell
+# Example
+Get-Process -name Chrome
+```
